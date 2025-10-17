@@ -1,6 +1,5 @@
 <!-- resources/views/student-dashboard.blade.php -->
 
-@extends('welcome')
 
 
 <section class="py-5">
